@@ -26,11 +26,11 @@ To update later, replace the folder's contents and click the reload arrow on the
 
 ## Using it
 
-- **Strip of 14 numbers.** Pick a game. A dot means live. G or S means Gukesh or Sindarov won. ½ means a draw. Grey numbers haven't started. Hover a number to see the players and the date.
-- **Moves.** Click any move, or use ← and →. Home goes to the start and End goes to the latest move. While you are looking at an older move, new moves still come in but the board stays where you put it. Press ⇥ to follow the game again.
-- **Clocks.** Each player's remaining time sits on the right of their name. In a live game at the latest move, the side to move is in bold and counts down every second. Step back through the moves and you see the time each player had left after that move.
-- **Evaluation.** The number comes from Sesse and is from White's side (+ means White is better). The thin bar shows the same thing. **PV** shows Sesse's main line. "Sesse · d67" is the search depth. Click it to open Sesse.
-- **Footer.** Connection status, time of the last broadcast update, ↻ to refresh, and a link to the game on Lichess.
+- Pick a game. A dot means live. G or S means Gukesh or Sindarov won. ½ means a draw. Grey numbers haven't started. Hover a number to see the players and the date.
+- Click any move, or use ← and →. Home goes to the start and End goes to the latest move. While you are looking at an older move, new moves still come in but the board stays where you put it. Press ⇥ to follow the game again.
+- Each player's remaining time sits on the right of their name. In a live game at the latest move, the side to move is in bold and counts down every second. Step back through the moves and you see the time each player had left after that move.
+- The number comes from Sesse and is from White's side (+ means White is better). The thin bar shows the same thing. **PV** shows Sesse's main line. "Sesse · d67" is the search depth. Click it to open Sesse.
+- Connection status, time of the last broadcast update, ↻ to refresh, and a link to the game on Lichess.
 
 The popup updates itself while it is open. During a live game it checks Lichess every 8 seconds and downloads the moves only when something has changed. Sesse updates continuously. Close it and all network activity stops. The last known state is cached, so the popup opens instantly and still shows something when you are offline.
 
