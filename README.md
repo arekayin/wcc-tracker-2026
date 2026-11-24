@@ -96,8 +96,3 @@ pieces/                cburnett pieces (Colin M.L. Burnett, GPLv2+, via Lichess)
 tests/                 Offline tests: `node tests/test.mjs`
 ```
 
-## Tests run
-
-- `node tests/test.mjs`: 14 tests against PGN and Sesse data captured live. They cover the PGN-to-FEN replay compared with Lichess's and Sesse's FENs, history file names compared with files Sesse served, the 14-game mapping, score and result logic, clock readings,
-  JSON-delta patching, score formatting, and the rules for matching an evaluation to a position.
-- The unpacked extension was loaded in Chrome 153 (headless), with Lichess and Sesse answered from the captured data. Checks: moves arriving through the round poll, a Sesse delta moving the evaluation to the new position, clicking back to move 6…dxc6 (board and stored evaluation both correct), the running clock counting down from the snapshot value, recorded clocks when stepping back, arrow keys, switching to Game 2 (not started), a mid-match state with three finished games (score and G/½ marks correct), dark mode, and reopening with the network off (cached position and evaluation shown, status "Offline · cached").
