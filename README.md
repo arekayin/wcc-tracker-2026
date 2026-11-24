@@ -1,4 +1,4 @@
-# World Chess Championship 2026 - Extension
+# Chrome Extension for World Chess Championship (2026)
 
 A small Chrome and Edge extension to follow the Gukesh vs Sindarov match. Click the icon to see the live board, the move list, the match score and Sesse's evaluation for the 2026 FIDE World Championship match.
 
