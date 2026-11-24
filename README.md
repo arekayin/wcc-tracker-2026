@@ -1,6 +1,6 @@
-# WCC 2026 Live: Gukesh vs Sindarov
+# World Chess Championship 2026 Live Broadcast & Analysis Extension
 
-A small Chrome and Edge extension. Click the icon to see the live board, the move list, the match score and Sesse's evaluation for the 2026 FIDE World Championship match.
+A small Chrome and Edge extension to follow the Gukesh vs Sindarov match. Click the icon to see the live board, the move list, the match score and Sesse's evaluation for the 2026 FIDE World Championship match.
 
 ## Install
 
@@ -19,6 +19,14 @@ A small Chrome and Edge extension. Click the icon to see the live board, the mov
 5. Click the puzzle icon and choose "Show in toolbar".
 
 To update later, replace the folder's contents and click the reload arrow on the extension's card.
+
+## Screenshots
+
+[Final Position in Dark Mode](screenshots/extension-final-dark.png)
+[Final Position in Light Mode](screenshots/extension-final-light.png)
+[Live Position in Dark Mode](screenshots/extension-live-dark.png)
+[Live Position in Light Mode](screenshots/extension-live-light.png)
+
 
 ## Using it
 
