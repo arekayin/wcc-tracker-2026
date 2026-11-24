@@ -2,6 +2,8 @@
 
 A small Chrome and Edge extension to follow the Gukesh vs Sindarov match. Click the icon to see the live board, the move list, the match score and Sesse's evaluation for the 2026 FIDE World Championship match.
 
+![The extension live and after the game, in light and dark mode](screenshots/extension-collage.png)
+
 ## Install
 
 ### Chrome
@@ -19,10 +21,6 @@ A small Chrome and Edge extension to follow the Gukesh vs Sindarov match. Click 
 5. Click the puzzle icon and choose "Show in toolbar".
 
 To update later, replace the folder's contents and click the reload arrow on the extension's card.
-
-## Screenshots
-
-![The extension live and after the game, in light and dark mode](screenshots/extension-collage.png)
 
 ## Using it
 
