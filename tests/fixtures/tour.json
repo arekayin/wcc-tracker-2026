@@ -1,0 +1,133 @@
+{
+ "id": "qfkdt8mn",
+ "name": "FIDE World Chess Championship 2026",
+ "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/qfkdt8mn",
+ "rounds": [
+  {
+   "id": "xLgOJ6cb",
+   "name": "Game 1",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-1/xLgOJ6cb",
+   "ongoing": true,
+   "startsAt": 1795528800000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "L3j03TZq",
+   "name": "Game 2",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-2/L3j03TZq",
+   "ongoing": false,
+   "startsAt": 1795615200000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "fnmEB1kH",
+   "name": "Game 3",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-3/fnmEB1kH",
+   "ongoing": false,
+   "startsAt": 1795701600000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "wIwJtPqz",
+   "name": "Game 4",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-4/wIwJtPqz",
+   "ongoing": false,
+   "startsAt": 1795788000000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "ueVpeXxW",
+   "name": "Game 5",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-5/ueVpeXxW",
+   "ongoing": false,
+   "startsAt": 1795874400000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "b0ACq4LF",
+   "name": "Game 6",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-6/b0ACq4LF",
+   "ongoing": false,
+   "startsAt": 1795960800000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "OZYNuhhF",
+   "name": "Game 7",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-7/OZYNuhhF",
+   "ongoing": false,
+   "startsAt": 1796047200000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "K9grUNXr",
+   "name": "Game 8",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-8/K9grUNXr",
+   "ongoing": false,
+   "startsAt": 1796133600000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "gBI5kKDi",
+   "name": "Game 9",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-9/gBI5kKDi",
+   "ongoing": false,
+   "startsAt": 1796220000000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "NhfhTSep",
+   "name": "Game 10",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-10/NhfhTSep",
+   "ongoing": false,
+   "startsAt": 1796306400000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "bAU22Apj",
+   "name": "Game 11",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-11/bAU22Apj",
+   "ongoing": false,
+   "startsAt": 1796392800000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "vRbnvNEi",
+   "name": "Game 12",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-12/vRbnvNEi",
+   "ongoing": false,
+   "startsAt": 1796479200000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "S4C6oJ1k",
+   "name": "Game 13",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-13/S4C6oJ1k",
+   "ongoing": false,
+   "startsAt": 1796565600000,
+   "finishedAt": null,
+   "finished": false
+  },
+  {
+   "id": "MDkKXuQD",
+   "name": "Game 14",
+   "url": "https://lichess.org/broadcast/fide-world-chess-championship-2026/game-14/MDkKXuQD",
+   "ongoing": false,
+   "startsAt": 1796652000000,
+   "finishedAt": null,
+   "finished": false
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gukesh vs Sindarov</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header>
+    <div class="line">
+      <span class="title">Gukesh <span class="muted">vs</span> Sindarov</span>
+      <span id="score" class="score num">0 – 0</span>
+    </div>
+    <div class="line sub">
+      <span>World Championship 2026</span>
+      <span id="gameLabel">Game 1 of 14</span>
+    </div>
+  </header>
+
+  <nav id="games" class="games" aria-label="Games"></nav>
+
+  <div class="player" id="topPlayer"><span class="swatch b"></span><span class="pname"></span><span class="pclock num"></span><span class="pres num"></span></div>
+  <div id="board" class="board" aria-label="Board"></div>
+  <div class="player" id="bottomPlayer"><span class="swatch w"></span><span class="pname"></span><span class="pclock num"></span><span class="pres num"></span></div>
+
+  <section class="eval">
+    <div class="bar" id="bar"><div class="fill" id="barFill"></div></div>
+    <div class="evalrow">
+      <span id="evalNum" class="evalnum num">…</span>
+      <span id="evalLabel" class="muted"></span>
+      <span id="pv" class="pv muted" hidden></span>
+      <span class="spacer"></span>
+      <button id="pvToggle" class="link" hidden title="Sesse's principal variation">PV</button>
+      <a id="sesseLink" class="muted" href="https://analysis.sesse.net/" target="_blank" rel="noopener">Sesse</a>
+    </div>
+  </section>
+
+  <div id="moves" class="moves" aria-label="Moves"></div>
+
+  <footer>
+    <span id="status" class="status"><i></i><span id="statusText">Loading</span></span>
+    <span id="updated" class="muted"></span>
+    <span class="spacer"></span>
+    <button id="prev" title="Previous move (←)">‹</button>
+    <button id="next" title="Next move (→)">›</button>
+    <button id="latest" title="Latest move (End)">⇥</button>
+    <button id="refresh" title="Refresh">↻</button>
+    <a id="broadcast" href="https://lichess.org/broadcast/fide-world-chess-championship-2026/qfkdt8mn" target="_blank" rel="noopener">Broadcast ↗</a>
+  </footer>
+
+  <script type="module" src="src/popup.js"></script>
+</body>
+</html>
