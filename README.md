@@ -22,6 +22,7 @@ To update later, replace the folder's contents and click the reload arrow on the
 
 ## Screenshots
 
+![The extension live and after the game, in light and dark mode](screenshots/extension-collage.png)
 
 ## Using it
 
