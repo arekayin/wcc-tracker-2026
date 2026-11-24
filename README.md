@@ -22,11 +22,6 @@ To update later, replace the folder's contents and click the reload arrow on the
 
 ## Screenshots
 
-![Final Position in Dark Mode](screenshots/extension-final-dark.png)
-![Final Position in Light Mode](screenshots/extension-final-light.png)
-![Live Position in Dark Mode](screenshots/extension-live-dark.png)
-![Live Position in Light Mode](screenshots/extension-live-light.png)
-
 
 ## Using it
 
